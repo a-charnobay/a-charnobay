@@ -1,16 +1,15 @@
-## Hello 👋
+## Hi there 👋
 
-<!--
-**a-charnobay/a-charnobay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aghata Charnobay, a biostatistician with a background in soil science and a passion for data science and visualization. I work at the intersection of research and data, using statistical methods, R programming, and visual storytelling to extract insights from complex datasets — especially in agriculture and sustainability-related fields.
 
-Here are some ideas to get you started:
+### 📌 What you'll find here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Data visualizations
+- 📈 Statistical analysis workflows
+- 📝 Tools and tips for reproducible research
+- 🔬 Academic research
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/aghata-charnobay)
+
+
