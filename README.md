@@ -10,6 +10,6 @@ I'm Aghata Charnobay, a biostatistician with a background in soil science and a 
 - 🔬 Academic research
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/aghata-charnobay)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/aghata-charnobay)
 
 
